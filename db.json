@@ -1,5 +1,6 @@
 {
-   [ {
+  "books": [
+    {
       "isbn": "9781593275846",
       "title": "Eloquent JavaScript, Second Edition",
       "subtitle": "A Modern Introduction to Programming",
